@@ -1,6 +1,6 @@
-# Enterprise Activity Auditor v1.0
+# Key Logger Recorder v1.0
 
-An internal system auditing utility built in Python. This application demonstrates secure software engineering workflows by logging interface interactions within a sandboxed environment using defensive structural patterns.
+An internal activity recording and auditing utility built in Python. This application demonstrates secure software engineering workflows by logging interface interactions within a sandboxed environment using defensive structural patterns.
 
 ## 🚀 Key Features & Architecture
 
@@ -11,10 +11,10 @@ An internal system auditing utility built in Python. This application demonstrat
 ## 🛠️ Project Structure
 
 ```text
-activity-auditor-project/
+key-logger-recorder/
 │
 ├── .gitignore          # Prevents tracking of local log output
 ├── README.md           # Documentation and architecture breakdown
 ├── requirements.txt    # Project dependency specification
 └── src/
-    └── activity_auditor.py  # Application source code
+    └── key_logger_recorder.py  # Application source code
